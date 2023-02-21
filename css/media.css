@@ -426,6 +426,10 @@
         width: auto;
         margin-top: 29px;
     }
+    
+    iframe{
+        width: 100%;
+    }
 
 }
 
