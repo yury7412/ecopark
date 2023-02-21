@@ -333,6 +333,10 @@
     .map_footer_ img{
         width: 100%;
     }
+    
+    .map_footer_ iframe{
+        width: 100%;
+    }
 }
 
 @media(max-width:430px){
@@ -354,6 +358,10 @@
         color: #FFFFFF;
         width: 371px;
         margin-top: 29px;
+    }
+    
+    .map_footer_ iframe{
+        width: 100%;
     }
 }
 
@@ -427,7 +435,7 @@
         margin-top: 29px;
     }
     
-    iframe{
+    .map_footer_ iframe{
         width: 100%;
     }
 
